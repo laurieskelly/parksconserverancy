@@ -1,5 +1,3 @@
 .ipynb_checkpoints
 *.pyc
 .DS_Store
-scrub*/reports/*.html
-scrub*/*/img/*.png
